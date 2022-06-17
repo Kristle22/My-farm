@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-farm/static/css/main.ad3889cd.css",
+    "main.js": "/my-farm/static/js/main.47fa1e25.js",
+    "static/js/787.7cdfc783.chunk.js": "/my-farm/static/js/787.7cdfc783.chunk.js",
+    "index.html": "/my-farm/index.html",
+    "main.ad3889cd.css.map": "/my-farm/static/css/main.ad3889cd.css.map",
+    "main.47fa1e25.js.map": "/my-farm/static/js/main.47fa1e25.js.map",
+    "787.7cdfc783.chunk.js.map": "/my-farm/static/js/787.7cdfc783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad3889cd.css",
+    "static/js/main.47fa1e25.js"
+  ]
+}
